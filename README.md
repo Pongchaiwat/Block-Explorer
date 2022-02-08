@@ -1,1 +1,1 @@
-# Block-Explorer with React
+# Block-Explorer using Ether.js and React
